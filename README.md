@@ -1,3 +1,1 @@
-# basicJS
-# basicJS
-# basicJS
+Basic algorithm scriptng from freeCodeCamp
